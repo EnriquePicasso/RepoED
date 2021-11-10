@@ -1,0 +1,5 @@
+#Ignoro todos los ficheros con extensión .bak
+*.bak
+
+#Ignoro el fichero IgnoraDocu
+ignoradocu.txt
