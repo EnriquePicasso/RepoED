@@ -1,27 +1,21 @@
-# Repositorio de Entornos de Desarrollo
-### Este es el primer repositorio que hemos creado en GIT
+# Repositorio para el examen de GIT
+### Enrique Martínez Fernández
 
-Estamos aprendiendo a trabajar con **GIT** y para eso hemos creado este repositorio. :student:
+En este examen voy a poner en práctica todos los conocimientos sobre **GIT** que hemos aprendido
 
-### Algunas de las ventajas de GIT son
+### Algunas de las cosas que tendré que hacer serán
 
-* Me permite controlar las vesriones de mi código
-* Puedo trabajar en equipo con mis compañeros
-* Aprendo de otros desarrolladores consultando sus repositorios
+* Crear repositorios locales
+* Realizar commits
+* Trabajar con ramas
 
-### Flujo de trabajo de GIT
-Para añadir un fichero a nuestro repositorio remoto de [GitHub](https://www.github.com) tenemos que seguir los siguientes pasos
+### Objetivo
+Crearemos una web para el instituto [IES Pablo Picasso](https://iespablopicasso.es/web/)
 
-```console
-git add fichero
-```
+El comando inicial de **GIT** es 
 
 ```console
-git commit -m "Comentario sobre el commit"
-```
-
-```console
-git push
+git init
 ```
 
 
